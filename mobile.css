@@ -16,6 +16,20 @@ body .ui-overlay-a, body .ui-page-theme-a, body .ui-panle-wrapper { text-shadow:
 
  }
  
+ a#menu{
+ 	
+ 	position: relative;
+ 	top: -20px;
+ }
+ 
+ #navbar img{
+ 	
+ 	position: relative;
+ 	
+ 	top: -10px;
+ 	left: 10px;
+ }
+ 
  
  .slider__wrapper h4{
  display: block;
@@ -182,7 +196,7 @@ font-size: 17px;
 	text-decoration: none;
 	color: white;
 	font-size: 33px;
-	padding-top: 10px;
+	padding-top: 00px;
 	padding-left: 10px;
 	
 }
