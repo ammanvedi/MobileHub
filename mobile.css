@@ -39,7 +39,7 @@ body .ui-overlay-a, body .ui-page-theme-a, body .ui-panle-wrapper { text-shadow:
  	left: 5px;
  		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
  	color: white;
- 		background-color: rgba(0, 73, 167, 0.62);
+ 		background-color: rgba(1, 139, 149, 0.61);
  	padding: 5px;
  	margin: 0;
  	font-size: 20px;
@@ -107,7 +107,7 @@ body .ui-overlay-a, body .ui-page-theme-a, body .ui-panle-wrapper { text-shadow:
 
 .imagecrop img{
 	
-	height: 120px !important;
+	height: 130px;
 }
 
 .post{
@@ -119,7 +119,7 @@ body .ui-overlay-a, body .ui-page-theme-a, body .ui-panle-wrapper { text-shadow:
 
 .postimage{
 	
-	background-image: url('img/dnc/kop.jpg');
+	background-image: url('img/tys.png');
 	background-size: cover;
 	background-position: center;
 	width: 100%;
@@ -133,7 +133,7 @@ font-size: 28px;
 display: inline-block;
 font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	color: white;
-	background-color: rgba(0, 73, 167, 0.63);
+	background-color: rgba(1, 139, 149, 0.61);
 	display: inline-block;
 	padding-left: 7px;
 	padding-right: 7px;
@@ -229,7 +229,7 @@ font-size: 17px;
 #profileimgbrand{
 	width: 80px;
 	height: 80px;
-	background-image: url('img/dnc/logo.jpg');
+	background-image: url('img/eelogo.jpg');
 	background-size: cover;
 	position: relative;
 	left: 20px;
@@ -240,7 +240,7 @@ font-size: 17px;
 }
 
 #latestshotstext{
-	background-color: #004AA7;
+	background-color: rgba(1, 139, 149, 0.61);
 	
 }
 
@@ -258,11 +258,11 @@ position: static ;
 	overflow: hidden;
 	width: 100%;
 	height: 150px;
-	background-image: url('img/dnc/high.gif');
+	background-image: url('img/headergif.gif');
 	background-size: cover;
 	background-position: center;
-	-moz-box-shadow: inset 0 -50px 100px rgba(34, 85, 168, 0.76);
-	box-shadow: inset 0 -50px 100px rgba(34, 85, 168, 0.76);
+	-moz-box-shadow: inset 0 -50px 100px rgba(1, 139, 149, 0.61);
+	box-shadow: inset 0 -50px 100px rgba(1, 139, 149, 0.61);
 	margin-top: 60px;
 }
 
