@@ -105,7 +105,7 @@ body .ui-overlay-a, body .ui-page-theme-a, body .ui-panle-wrapper { text-shadow:
 
 .postimage{
 	
-	background-image: url('img/tys.png');
+	background-image: url('img/dnc/kop.jpg');
 	background-size: cover;
 	background-position: center;
 	width: 100%;
@@ -115,11 +115,14 @@ body .ui-overlay-a, body .ui-page-theme-a, body .ui-panle-wrapper { text-shadow:
 }
 
 .postimage h1{
+font-size: 28px;
+display: inline-block;
 font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	color: white;
-	background-color: rgba(0, 137, 147, 0.61);
+	background-color: rgba(0, 73, 167, 0.63);
 	display: inline-block;
 	padding-left: 7px;
+	padding-right: 7px;
 	text-shadow: 0 0 2px rgba(0, 0, 0, 0.69);
 }
 
@@ -212,7 +215,7 @@ font-size: 17px;
 #profileimgbrand{
 	width: 80px;
 	height: 80px;
-	background-image: url('img/eelogo.jpg');
+	background-image: url('img/dnc/logo.jpg');
 	background-size: cover;
 	position: relative;
 	left: 20px;
@@ -223,7 +226,7 @@ font-size: 17px;
 }
 
 #latestshotstext{
-	background-color: #008A93;
+	background-color: #004AA7;
 	
 }
 
@@ -241,11 +244,11 @@ position: static ;
 	overflow: hidden;
 	width: 100%;
 	height: 150px;
-	background-image: url('img/headergif.gif');
+	background-image: url('img/dnc/high.gif');
 	background-size: cover;
 	background-position: center;
-	-moz-box-shadow: inset 0 -50px 100px rgba(55, 153, 161, 0.76);
-	box-shadow: inset 0 -50px 100px rgba(55, 153, 161, 0.76);
+	-moz-box-shadow: inset 0 -50px 100px rgba(34, 85, 168, 0.76);
+	box-shadow: inset 0 -50px 100px rgba(34, 85, 168, 0.76);
 	margin-top: 60px;
 }
 
