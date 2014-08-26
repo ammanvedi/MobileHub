@@ -1,0 +1,329 @@
+body{
+	
+	height: 500px;
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+a{
+	
+	color: white;
+}
+
+
+body .ui-overlay-a, body .ui-page-theme-a, body .ui-panle-wrapper { text-shadow:none !important;
+
+ }
+ 
+ a#menu{
+ 	
+ 	position: relative;
+ 	top: -20px;
+ }
+ 
+ #navbar img{
+ 	
+ 	position: relative;
+ 	
+ 	top: -10px;
+ 	left: 10px;
+ }
+ 
+ 
+ .slider__wrapper h4{
+ display: block;
+ 	
+ 	position: relative;
+ 	top: -50px !important;
+ 	left: 5px;
+ 		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+ 	color: white;
+ 		background-color: rgba(1, 139, 149, 0.61);
+ 	padding: 5px;
+ 	margin: 0;
+ 	font-size: 20px;
+ 	display: inline-block;
+ 	border-radius: 3px;
+ 	
+ }
+ 
+ .slider__wrapper h1{
+ display: block;
+ 	
+ 	position: relative;
+	top: -40px !important;
+ 	left: 5px;
+ 		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+ 	color: #313131;
+ 	background-color: rgba(255, 255, 255, 0.87);
+ 	padding: 5px;
+ 	margin: 0;
+ 	font-size: 20px;
+ 	display: inline-block;
+ 	border-radius: 3px;
+ 	
+ }
+ 
+ .imagecropregular{
+ display: inline-block;
+ 
+ 	
+ 	width: 270px;
+ 	height: 120px;
+ 	overflow: hidden;
+ 	margin: 0 auto;
+ 	position: relative;
+ 	left: -40px;
+ 	border: 3px solid #ffffff;
+ 	-moz-box-shadow: 0 0 11px rgba(0, 0, 0, 0.56);
+ 	box-shadow: 0 0 11px rgba(0, 0, 0, 0.56);
+ 	margin-left: 22px;
+ }
+ 
+ 
+.imagecrop{
+	
+	width: 140px;
+	height: 120px;
+	overflow: hidden;
+	margin: 0 auto;
+	position: relative;
+	left: -40px;
+	border: 3px solid #ffffff;
+	-moz-box-shadow: 0 0 11px rgba(0, 0, 0, 0.56);
+	box-shadow: 0 0 11px rgba(0, 0, 0, 0.56);
+	float: left;
+	margin-left: 10px;
+}
+
+
+
+.slider__item p{
+	
+	position: relative !important;
+	top: 20px !important;
+}
+
+.imagecrop img{
+	
+	height: 130px;
+}
+
+.post{
+	
+	width: 100%;
+	height: 350px;
+	
+}
+
+.postimage{
+	
+	background-image: url('img/tys.png');
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 200px;
+	-moz-box-shadow: inset 0 -70px 150px black;
+	box-shadow: inset 0 -70px 150px black;
+}
+
+.postimage h1{
+font-size: 28px;
+display: inline-block;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	color: white;
+	background-color: rgba(1, 139, 149, 0.61);
+	display: inline-block;
+	padding-left: 7px;
+	padding-right: 7px;
+	text-shadow: 0 0 2px rgba(0, 0, 0, 0.69);
+}
+
+.postcontent{
+border: 5px solid #fafafa;
+	width: 85%;
+	height: 200px;
+	margin: 0 auto;
+	position: relative;
+	top: -70px;
+	background-color: #fff;
+	-moz-box-shadow: 0 0 2px rgba(0, 0, 0, 0.55);
+	box-shadow: 0 0 2px rgba(0, 0, 0, 0.55);
+}
+
+.postcontent p{
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	max-width: 90%;
+	text-align: center;
+	margin: 0 auto;
+	
+}
+
+.postcontent h2{
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-size: 17px;
+	color: #6a6a6a;
+	max-width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	
+}
+
+.divider{
+	
+	width: 80%;
+	height: 1px;
+	margin: 0 auto;
+	margin-bottom: 8px;
+	background-color: #000;
+	opacity: 0.3;
+}
+
+#latestshots{
+	
+	height: 200px;
+	width: 100%;
+	margin-bottom: 50px;
+	
+}
+#menu{
+	
+	width: 50px;
+	height: 50px;
+	text-decoration: none;
+	color: white;
+	font-size: 33px;
+	padding-top: 00px;
+	padding-left: 10px;
+	
+}
+
+#brandprofile{
+	width: 100%;
+	height: 140px;
+	
+}
+
+#brandprofile p{
+	font: bold 12px "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 12px;
+	max-width: 85%;
+	position: relative;
+	top: -50px;
+	margin: 0 auto;
+	opacity: 0.8;
+	
+}
+
+.inspiration{
+	
+	height: 280px !important;
+	background-color: #F0F0F0;
+}
+
+#profileimgbrand{
+	width: 80px;
+	height: 80px;
+	background-image: url('img/eelogo.jpg');
+	background-size: cover;
+	position: relative;
+	left: 20px;
+	top: -60px;
+	border: 3px solid #ffffff;
+	-moz-box-shadow: 0 0 2px rgba(0, 0, 0, 0.45);
+	box-shadow: 0 0 2px rgba(0, 0, 0, 0.45);
+}
+
+#latestshotstext{
+	background-color: rgba(1, 139, 149, 0.61);
+	
+}
+
+#latestshots h2{
+	font: bold 15px "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	color: white;
+	text-shadow: 0 0 2px rgba(0, 0, 0, 0.69);
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-bottom: 17px;
+}
+
+#header{
+position: static ;
+	overflow: hidden;
+	width: 100%;
+	height: 150px;
+	background-image: url('img/headergif.gif');
+	background-size: cover;
+	background-position: center;
+	-moz-box-shadow: inset 0 -50px 100px rgba(1, 139, 149, 0.61);
+	box-shadow: inset 0 -50px 100px rgba(1, 139, 149, 0.61);
+	margin-top: 60px;
+}
+
+#header h1{
+margin: 0px;
+color: #ffffff;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+display: block;
+position: relative;
+top: 120px;shape-rendering
+font-weight: lighter;
+left: 115px;
+font-size: 20px;
+line-height: 18px;
+font-weight: lighter !important;
+	
+
+	
+	
+}
+
+#profilelistitem{
+	height: 100px;
+	
+}
+
+#profileimage{
+	
+	background-image: url('https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg');
+	width: 60px;
+	height: 60px;
+	border-radius: 35px;
+	background-size: contain;
+	border: 3px solid #ffffff;
+	-moz-box-shadow: 0 1px 2px black;
+	box-shadow: 0 1px 2px black;
+	float: left;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#usernametext{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+	
+}
+
+#navbar{
+	width: 100%;
+	height: 60px;
+	background-color: black;
+	position: fixed;
+	z-index: 1000;
+}
+
+#menu{
+	
+	position: relative;
+	
+	top: 10px;
+	
+}
